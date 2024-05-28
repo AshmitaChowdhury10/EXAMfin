@@ -1,0 +1,7 @@
+x=8
+y=2.5
+z=1j
+
+printf(text(x));
+printf(text(y));
+printf(text(z));
